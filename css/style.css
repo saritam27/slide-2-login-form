@@ -1,0 +1,86 @@
+.divider {
+    border: 1px solid #e5e5e5;
+}
+
+.divider-text {
+    color: #d1d1d1;
+}
+
+.fa-twitter,
+.fa-google {
+    color: white;
+}
+
+.span1 {
+    background-color: #263e66;
+}
+
+.span2 {
+    background-color: #0a95d0;
+}
+
+.span3 {
+    background-color: #c8332b;
+}
+
+.but1 {
+    background-color: #395d98;
+}
+
+.but2 {
+    background-color: #04adeb;
+}
+
+.but3 {
+    background-color: #f5423a;
+}
+
+.but1,
+.but2,
+.but3 {
+    color: white;
+    font-size: 12px;
+}
+
+.fa-square-facebook {
+    background-color: #242646;
+    color: white;
+}
+
+.log-in {
+    background-color: #4685ff;
+    color: white;
+    font-size: 12px;
+}
+
+.fa-circle-user,
+.fa-key {
+    color: #cfcfcd;
+}
+
+.login-inputs {
+    border: 1px solid #d3d4d2;
+}
+
+.remwmber {
+    font-size: 12px;
+    color: #c8c8c8;
+}
+
+.register {
+    color: #5aa1b7;
+    font-size: 12px;
+}
+
+.right-side {
+    background: url('Images/image.png');
+}
+
+.card {
+    padding: 60px;
+}
+
+.container {
+    background-color: #f7f7f7;
+    margin-top: 10%;
+}
